@@ -1,6 +1,5 @@
 # cu8e game
 
-# My First Game 🎮  
 **Platform**: Android  
 **Engine**: Unity  
 **Language**: C#  

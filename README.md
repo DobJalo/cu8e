@@ -7,6 +7,6 @@
 **Description**: 2D puzzle game like a Rubik’s Cube.
 
 ## 🎮 Download the game  
-- [Download APK](https://dobjalo.itch.io/cu8e)
+- [itch.io page](https://dobjalo.itch.io/cu8e)
 
 

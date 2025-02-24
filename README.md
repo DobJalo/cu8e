@@ -12,6 +12,7 @@
 
 ## Download the game  
 - [itch.io page](https://dobjalo.itch.io/cu8e)
+  
 - [Gameplay video](https://youtu.be/1A7D_K3nHJ8)
 
 

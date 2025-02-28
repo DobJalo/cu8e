@@ -3,7 +3,7 @@
 **Platform**: Android  
 **Engine**: Unity  
 **Language**: C#  
-**Date**: made in 2021 and published in 2025 in PlayMarket 
+**Date**: made in 2021 and published in 2025 in PlayMarket and itch.io
 **Game description**: 2D puzzle game like a Rubik’s Cube
 
 **Description**: The first finished project, made independently in Unity engine. The creation process took about 3 months, then about another 3 months for testing and finalization. All assets were created by me.

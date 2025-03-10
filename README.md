@@ -16,6 +16,8 @@ The most challenging part was finding the right algorithm to move an entire row 
 **Advertisement**: The game uses Google AdMob banners and page ads.
 
 ## Download the game  
+- [Google Play page](https://play.google.com/store/apps/details?id=com.Cu8eGame.cu8e)
+  
 - [itch.io page](https://dobjalo.itch.io/cu8e)
   
 - [Gameplay video](https://youtu.be/1A7D_K3nHJ8)
